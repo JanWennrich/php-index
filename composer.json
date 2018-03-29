@@ -5,6 +5,7 @@
     "keywords": ["index", "binary search"],
     "homepage": "https://github.com/JanWennrich/php-index",
     "license": "WTFPL-2.0",
+    "version": "dev-master",
     "authors": [
         {
             "name": "Markus Malkusch",
