@@ -1,6 +1,6 @@
 # About PHP-Index
 
-This is a clone of malkusch's deleted/abandonned php-index library.  
+This is a clone of malkusch's deleted/abandoned php-index library.  
 This library provides an API to perform binary search operations on a sorted
 index. The index can be a XML document, an CSV document, or an arbitrary text
 file where the key has a fixed position. You can easily implement your own
